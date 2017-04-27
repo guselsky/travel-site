@@ -1,3 +1,7 @@
+.flexbox .example-element {
+	padding: 10px;
+}
+
 .btn {
 	background-color: $mainBlue;
 	color: #fff;
